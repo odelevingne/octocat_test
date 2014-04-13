@@ -1,1 +1,2 @@
 Explain what a branch is, in your own words
+a branch on git is a working environment with a repository. You can create new branches from the master branch allowing you to continue working on new developments without affecting the master branch
